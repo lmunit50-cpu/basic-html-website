@@ -1,4 +1,4 @@
-
+Basic HTML
 # Basic HTML Website
 
 My second Roadmap.sh project.
@@ -17,4 +17,7 @@ A simple four-page website created using HTML.
 - Semantic HTML
 - Navigation links
 - SEO meta tags
-- 
+- index.html 
+projects.html 
+articles.html 
+contact.html
